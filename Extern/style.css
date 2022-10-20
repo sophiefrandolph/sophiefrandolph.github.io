@@ -1,0 +1,17 @@
+@media screen and (max-width: 320px) {
+  .section-hero-tl .styleh5b {
+    color: #000000;
+  }
+  .section-hero-tl .styleh1b {
+    color: #000000;
+  }
+  .section-hero-tl .stylepbigb {
+    color: #000000;
+  }
+}
+.stylebuttonbig1b {
+  transition: all 0.25s ease;
+}
+.stylebuttonbig1b:hover {
+  background-color: #000000;
+}
