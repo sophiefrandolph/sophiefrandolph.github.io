@@ -8,6 +8,22 @@
   .section-hero-tl .stylepbigb {
     color: #000000;
   }
+  .section-hero-tl .styleform2b {
+    height: auto;
+  }
+  .section-hero-tl .styleform2b input {
+    width: 100%;
+    height: 60px;
+  }
+  .section-hero-tl .styleform2b .styleemailform2b {
+    border-radius: 4px;
+    border: 1px solid #C5C7C1;
+  }
+  .section-hero-tl .styleform2b .stylebuttonbig1b {
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+  }
 }
 .stylebuttonbig1b {
   transition: all 0.25s ease;
