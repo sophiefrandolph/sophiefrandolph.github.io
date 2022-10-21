@@ -417,6 +417,58 @@
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
+    "\/website\/images\/Background_1x-p-500.png" : {
+      "ft" : 32768,
+      "iS" : 116322,
+      "oA" : 0,
+      "oAP" : "\/website\/images\/Background_1x-p-500.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/website\/images\/Background_1x-p-800.png" : {
+      "ft" : 32768,
+      "iS" : 276382,
+      "oA" : 0,
+      "oAP" : "\/website\/images\/Background_1x-p-800.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/website\/images\/Background_1x-p-1080.png" : {
+      "ft" : 32768,
+      "iS" : 494002,
+      "oA" : 0,
+      "oAP" : "\/website\/images\/Background_1x-p-1080.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/website\/images\/Background_1x.png" : {
+      "ft" : 32768,
+      "iS" : 1294569,
+      "oA" : 0,
+      "oAP" : "\/website\/images\/Background_1x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/website\/images\/Base-Component-1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
