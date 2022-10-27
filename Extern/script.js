@@ -1,6 +1,9 @@
 window.addEventListener('load', function () {
 
     if ( document.querySelector('.section-hero-tl') ) {
+
+        document.querySelector('header').classList.add('style-landing');
+
         if ( document.querySelector('.section-quotes-b') ) {
             
             document.querySelector('.section-quotes-b .section-quotes-b-containerimg .section-quotes-b-containerimg-imgs:first-child').classList.add('active');
