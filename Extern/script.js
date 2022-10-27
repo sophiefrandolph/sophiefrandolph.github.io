@@ -2,7 +2,7 @@ window.addEventListener('load', function () {
 
     if ( document.querySelector('.section-hero-tl') ) {
 
-        document.querySelector('header').classList.add('style-landing');
+        document.querySelector('#navbar').classList.add('style-landing');
 
         if ( document.querySelector('.section-quotes-b') ) {
             
